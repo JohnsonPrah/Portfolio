@@ -10,7 +10,7 @@ const Navbar = () => {
   const whenClicked = () => setToggle(false);
 
 
-  return (
+  return ( 
       <div className="w-full z-300 fixed border-b flex justify-between lg:px-20 md:px-16  items-center h-24 px-4 bg-slate-900">
 
         <p className="text-sky-400 text-2xl"> <span className="font-signature text-white capitalize">jo </span>hns <span className="font-signature text-white">on</span></p>

@@ -7,7 +7,7 @@ const Projects = () => {
 
   return (
     <div className="w-full " id="projects">
-    <div className="max-w-screen-lg mx-auto px-4 py-12 flex flex-col items-center justify-center">
+    <div className="max-w-[1150px] mx-auto px-4 py-12 flex flex-col items-center justify-center">
     
     <h1 className="text-sky-400 text-2xl md:text-4xl mb-3 md:mb-4 text-center">
       PROJECTS

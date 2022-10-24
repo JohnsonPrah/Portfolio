@@ -11,7 +11,8 @@ module.exports = {
         'seccol':"#6BA4F2 "
       },
       fontFamily:{
-        signature:"Great Vibes"
+        signature:"Great Vibes",
+        signame:"Poppins"
       }
     },
   },

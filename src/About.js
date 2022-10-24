@@ -65,7 +65,7 @@ const About = () => {
 
   return (
      <div id="about" className="w-full bg-gradient-to-l from-slate-900 to-slate-800 lg:py-10">
-     <div className=" max-w-screen-lg mx-auto px-4 py-6 flex flex-col items-center justify-center">
+     <div className=" max-w-[1150px] mx-auto px-4 py-6 flex flex-col items-center justify-center">
           <h1 className="text-sky-400 text-2xl md:text-4xl mb-3 md:mb-4 text-center">ABOUT ME</h1>
           <div className="h-0.5 w-5 md:w-10 bg-sky-200 rounded-sm mb-2"></div>
           <div className="h-0.5 w-20 md:w-24 bg-sky-300 rounded-sm mb-2"></div>
