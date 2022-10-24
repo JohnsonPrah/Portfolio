@@ -13,7 +13,7 @@ const data=[
         title : "Nostalgia Farm clone",
         description : "I re-created the frontend of Boreal Coffee's official web app because I got attracted to their beautiful UI. It was a great experience for me to build the entire frontend. ",
         github : "https://github.com/JohnsonPrah/Nostalgia-Website-Clone",
-        live : "https://www.youtube.com/"
+        live : "https://nostalgia-clone.netlify.app/"
     },
     {
         id : "3",
