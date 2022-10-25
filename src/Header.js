@@ -18,10 +18,10 @@ const Header = () => {
                   Applications and meeting customer demands !!!
               </p>
               <div className="flex gap-3 mt-2 sm:mt-8">
-                <a href={CV} target="_blank" className="hidden s hover:shadow-xl shadow-sky-400  mr-10 font-semibold text-lg py-2 px-6 rounded-3xl bg-sky-400 text-slate-800 sm:grid items-center">Resume  </a>
-                <a href="https://www.linkedin.com/in/johnson-owusu-prah-7b9330107/" target="_blank" className="hover:shadow-xl shadow-sky-400 hover:rotate-6 p-2 rounded-sm bg-slate-800 grid place-items-center"> <FaLinkedin size={30} className="p-1 text-sky-400 "/> </a>
-                <a href="https://twitter.com/Jay_Gainz" target="_blank" className="hover:shadow-xl shadow-sky-400 hover:rotate-6 p-2 rounded-sm bg-slate-800 grid place-items-center"> <FaTwitter size={30} className="p-1 text-sky-400  "/> </a>
-                <a href="https://github.com/JohnsonPrah" target="_blank" className="hover:shadow-xl shadow-sky-400 hover:rotate-6 p-2 rounded-sm bg-slate-800 grid place-items-center"> <FaGithub size={30} className="p-1 text-sky-400 "/> </a>
+                <a target="_blank" rel="noreferrer" href={CV} download className="hidden hover:shadow-xl shadow-sky-400 mr-10 font-semibold text-lg py-2 px-6 rounded-3xl bg-sky-400 text-slate-800 sm:grid items-center">Resume  </a>
+                <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/johnson-owusu-prah-7b9330107/"  className="hover:shadow-xl shadow-sky-400 hover:rotate-6 p-2 rounded-sm bg-slate-800 grid place-items-center"> <FaLinkedin size={30} className="p-1 text-sky-400 "/> </a>
+                <a target="_blank" rel="noreferrer" href="https://twitter.com/Jay_Gainz" className="hover:shadow-xl shadow-sky-400 hover:rotate-6 p-2 rounded-sm bg-slate-800 grid place-items-center"> <FaTwitter size={30} className="p-1 text-sky-400  "/> </a>
+                <a target="_blank" rel="noreferrer" href="https://github.com/JohnsonPrah" className="hover:shadow-xl shadow-sky-400 hover:rotate-6 p-2 rounded-sm bg-slate-800 grid place-items-center"> <FaGithub size={30} className="p-1 text-sky-400 "/> </a>
               </div>
             </div>
             

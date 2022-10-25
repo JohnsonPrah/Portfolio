@@ -10,8 +10,8 @@ const Item = ({title,github,live,id,description,display}) => {
                 {description}   
             </p>
             <div className="flex justify-center items-center md:justify-start md:items-center mb-4">
-            <a href={github} target="_blank" className="py-3 px-12 mr-4 bg-slate-900 text-sky-200 text-xl hover:bg-sky-400 hover:text-slate-800 transition duration-500 ease-in rounded-md">Githud</a>
-            <a href={live}  target="_blank" className="py-3 px-16 mr-4 bg-slate-900 text-sky-200 text-xl hover:bg-sky-400 hover:text-slate-800 transition duration-500 ease-in rounded-md">Live</a>
+            <a href={github} target="_blank" rel="noreferrer" className="py-3 px-12 mr-4 bg-slate-900 text-sky-200 text-xl hover:bg-sky-400 hover:text-slate-800 transition duration-500 ease-in rounded-md">Githud</a>
+            <a href={live}  target="_blank" rel="noreferrer" className="py-3 px-16 mr-4 bg-slate-900 text-sky-200 text-xl hover:bg-sky-400 hover:text-slate-800 transition duration-500 ease-in rounded-md">Live</a>
             </div>
          </div>
   

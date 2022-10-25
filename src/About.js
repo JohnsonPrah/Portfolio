@@ -1,5 +1,4 @@
 import React from "react";
-import {BsDownload} from "react-icons/bs"
 import html from "./images/html.png";
 import css from "./images/css.png";
 import javascript from "./images/javascript.png";
