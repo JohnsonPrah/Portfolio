@@ -7,7 +7,7 @@ import CV from "./assets/jopCV.pdf"
 const Header = () => {
   return(
         <div className="w-full h-[90vh] lg:h-screen lg:px-20 md:px-16 " id="header ">
-          <div className="h-full flex flex-col-reverse items-center justify-center gap-12 max-w-[1150px]  mx-auto px-4 py-0 p md:pt-[14rem] md:pb-[6rem] ">
+          <div className="h-full flex flex-col-reverse items-center justify-center gap-12 max-w-[1150px]  mx-auto px-4 py-0 p md:pt-[8rem] md:pb-[6rem] ">
 
             <div className="flex flex-col justify-center items-center">
               <h1 className="mb-10 text-white font-bold text-4xl lg:text-6xl lg:font-extrabold uppercase  text-center">Hi there, I'm <span className="signame text-sky-700 ">Johnson</span>  </h1>
