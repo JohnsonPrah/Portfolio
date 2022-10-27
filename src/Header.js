@@ -2,7 +2,7 @@ import React from "react";
 import {FaLinkedin } from "react-icons/fa"
 import {FaTwitter } from "react-icons/fa"
 import {FaGithub } from "react-icons/fa"
-import CV from "./assets/jopCV.pdf"
+import CV from "./assets/j.o.p-CV.pdf"
 
 const Header = () => {
   return(
