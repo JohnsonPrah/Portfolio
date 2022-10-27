@@ -20,7 +20,7 @@ const data=[
         display : "gaming.PNG",
         title : "Quick Gaming",
         description : "This is a react app i created because of my love for video games.Fetching data from RAWG Video Games Database api and displayin game cards based on chesen genre or the searched item!! I used react,react-icons and tailwindcss ",
-        github : "https://www.rammaheshwari.com/",
+        github : "https://github.com/JohnsonPrah/game-scope",
         live : "https://www.youtube.com/"
     },
     {
