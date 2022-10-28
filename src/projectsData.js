@@ -29,7 +29,7 @@ const data=[
         title : "Wildermere Real Estate",
         description : "This is Real Estate react app displaying details about homes and apartments both for sale and rent in the UAE,based on the individual's seacrh input. Technology used includes Next.js,tailwindcss",
         github : "https://github.com/JohnsonPrah/real-estate",
-        live : "https://wilder-estates.netlify.app/"
+        live : "https://wildermere-estates.netlify.app/"
     }
 
 ]
